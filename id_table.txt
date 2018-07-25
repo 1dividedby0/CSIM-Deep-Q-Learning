@@ -1,0 +1,9 @@
+path = 0
+wall = 1
+player = 2
+enemy = 3
+
+left = 1
+right = 2
+up = 3
+down = 4
